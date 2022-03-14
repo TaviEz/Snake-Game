@@ -1,0 +1,6 @@
+The project is a console Snake Game written in C++ using methods, for loops, while loops and also swtich statements. 
+The snake itself is made out of letters, more precisely "O" for the head and "o" for the tail components. 
+The borders are made from the "#" character and the fruit is the letter "F".
+The controls for the snake are "WASD".
+The game is made classic, so if you hit the wall you will lose, but if you want to have a bigger chance to get a higher score you should consider COMMENTING the 145 and 146 lines.
+This will change the game's logic by letting you go through the wall and spawning in the opposite wall you have entered.
